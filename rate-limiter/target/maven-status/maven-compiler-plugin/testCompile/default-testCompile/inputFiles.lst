@@ -1,7 +1,7 @@
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/FixedWindowRateLimiterStrategyTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/LeakyBucketRateLimiterStrategyTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/SlidingWindowCounterRateLimiterStrategyTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/SlidingWindowLogRateLimiterStrategyTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/TokenBucketRateLimiterStrategyTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/core/RateLimiterRegistryRuntimeSwitchTest.java
-/Users/sandeepvy/Documents/Practice/rate-limiter/src/test/java/com/example/ratelimiter/support/MutableClock.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/FixedWindowRateLimiterStrategyTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/LeakyBucketRateLimiterStrategyTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/SlidingWindowCounterRateLimiterStrategyTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/SlidingWindowLogRateLimiterStrategyTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/algorithm/TokenBucketRateLimiterStrategyTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/core/RateLimiterRegistryRuntimeSwitchTest.java
+/Users/sandeepvy/Documents/Practice System design/rate-limiter/src/test/java/com/example/ratelimiter/support/MutableClock.java
